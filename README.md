@@ -1,7 +1,7 @@
 # Cup_Guesser
 Terminal Cup Guesser Game in Python
 
-# prerequisite
+# Prerequisite
 Have Python installed and add to PATH
 
 # How to run
