@@ -5,8 +5,9 @@ Terminal Cup Guesser Game in Python
 Have Python installed and add to PATH
 
 # How to run
-Download the 'CupGuesser.py' and create a text file named 'best_score.txt'
-Open terminal and navigate to the directory contain 'CupGuesser.py' (ussualy in Download directory)
+Download the 'CupGuesser.py' and create a text file named 'best_score.txt'.
+
+Open terminal and navigate to the directory contain 'CupGuesser.py' (ussualy in Download directory).
 
 <img width="803" height="492" alt="image" src="https://github.com/user-attachments/assets/663409dd-323c-41a2-8897-546010dd2105" />
 
