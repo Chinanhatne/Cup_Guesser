@@ -13,3 +13,6 @@ Type 'python CupGuesser.py'
 
 <img width="802" height="483" alt="image" src="https://github.com/user-attachments/assets/0c3a725b-19d0-44ab-8175-7d42d96a6bf7" />
 
+And ready to play
+
+<img width="802" height="488" alt="image" src="https://github.com/user-attachments/assets/0ac823e2-8268-4707-acde-bc91dbf394fa" />
