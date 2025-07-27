@@ -2,7 +2,7 @@
 Terminal Cup Guesser Game in Python
 
 # Prerequisite
-Have Python installed and add to PATH
+Have Python installed and added to PATH
 
 # How to run
 Download the 'CupGuesser.py' and create a text-file named 'best_score.txt' in the same diractory with 'CupGuesser.py'.
